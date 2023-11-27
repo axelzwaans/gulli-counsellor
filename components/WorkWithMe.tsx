@@ -23,7 +23,7 @@ const WorkWithMe = () => {
             With Me.
           </h2>
           <p className="py-2 text-gray-600">
-            Hello I'm Gulli, I wish you a warm welcome. Perhaps you are
+            Hello I&apos;m Gulli, I wish you a warm welcome. Perhaps you are
             grappling with a situation or behaviour that feels out of your
             control, or struggling with anxiety, depression, addiction or past
             trauma; perhaps you have lost your spark for life, and feel a deep
